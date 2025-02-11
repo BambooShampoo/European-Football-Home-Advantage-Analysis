@@ -64,7 +64,7 @@ matplotlib
 
 If any of these librarys are not yet installed:
 ```bash
-pip install <library>
+pip install understatapi pandas numpy scipy matplotlib
 ```
 
 ## Getting Started with Initial data
