@@ -130,3 +130,16 @@ to run, enter in terminal:
 ```bash
 python3 dataBoxplot.py <league> <year>
 ```
+
+## Findings:
+For each league I gathered data from, the home side generates higher xG (expected goals), scores more goals, earned more points on average, 
+whereas the away side concede more chances and concede more goals. Each with P-values below 0.05. 
+
+![image](https://github.com/user-attachments/assets/2a64fb63-13a3-4a54-a7ce-46b7b71ff56a)
+
+However, during the the 2019/2020 season, there was no apparent advantage for any metric.
+A giant factor for this is COVID-19, forcing the leagues to play behind closed door, it is quite
+apparent that the crowd has influence on games.
+
+![image](https://github.com/user-attachments/assets/37cd5e45-dfcd-4e5d-bf55-889ea295a227)
+
