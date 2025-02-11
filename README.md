@@ -133,7 +133,7 @@ python3 dataBoxplot.py <league> <year>
 
 ## Findings:
 For each league I gathered data from, the home side generates higher xG (expected goals), scores more goals, earned more points on average, 
-whereas the away side concede more chances and concede more goals. Each with P-values below 0.05. 
+whereas the away side concede more chances and concede more goals. Each with P-values below 0.05, indicating a convincing different between data values home vs away. 
 
 ![image](https://github.com/user-attachments/assets/2a64fb63-13a3-4a54-a7ce-46b7b71ff56a)
 
