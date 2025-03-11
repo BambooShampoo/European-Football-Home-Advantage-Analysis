@@ -164,3 +164,11 @@ apparent that the crowd has influence on games.
 
 ![image](https://github.com/user-attachments/assets/37cd5e45-dfcd-4e5d-bf55-889ea295a227)
 
+## Comparing 2020 vs. 2023, we can see a shift in home vs. away advantage:
+
+- In 2020, the p-values for all metrics were very high (above 0.2, some close to 1), meaning there was no significant statistical difference between home and away performances.
+  - This can be explained by the COVID-19 lockdown, where games were forced to be played behind closed doors.
+    
+- In 2023, the p-values are much lower (all below 0.05), indicating a significant change in home vs. away dynamics.
+  - With fans back in the stadium, they provide a proper push for their team while potentially intimidating the opposing team.
+
