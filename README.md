@@ -131,6 +131,25 @@ to run, enter in terminal:
 python3 dataBoxplot.py <league> <year>
 ```
 
+## Understanding xG and xGA for Non-Football Fans
+In football (soccer), two important metrics are Expected Goals (xG) and Expected Goals Against (xGA).
+
+xG (Expected Goals): This measures the quality of chances a team creates. It calculates how many goals a team should have scored based on the difficulty of their shots. A higher xG means a team is generating better chances.
+xGA (Expected Goals Against): This is the opposite—how many goals a team should have conceded based on the quality of chances the opponent created. A lower xGA means a team is defending well and preventing quality chances.
+
+## What Should You Look At in the Graphs?
+Each graph compares Home vs. Away performance for various metrics:
+
+Points (Graph 1)
+Goals Scored (Graph 2)
+Goals Conceded (Graph 3)
+xG - Expected Goals (Graph 4)
+xGA - Expected Goals Against (Graph 5)
+The diagonal red dashed line represents a perfectly balanced team, performing the same at home and away.
+Dots above the line mean the team performs better away.
+Dots below the line mean the team is stronger at home.
+If dots are widely spread from the diagonal, it suggests a big difference in home vs. away performance.
+
 ## Findings:
 For each league I gathered data from, the home side generates higher xG (expected goals), scores more goals, earned more points on average, 
 whereas the away side concede more chances and concede more goals. Each with P-values below 0.05, indicating a convincing different between data values home vs away. 
