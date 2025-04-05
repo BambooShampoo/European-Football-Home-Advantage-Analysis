@@ -162,6 +162,7 @@ However, during the the 2019/2020 season, there was no apparent advantage for an
 A giant factor for this is COVID-19, forcing the leagues to play behind closed door, it is quite
 apparent that the crowd has influence on games.
 
+### During the COVID-19 lockdown
 ![image](https://github.com/user-attachments/assets/37cd5e45-dfcd-4e5d-bf55-889ea295a227)
 
 ## Comparing 2020 vs. 2023, we can see a shift in home vs. away advantage:
