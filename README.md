@@ -66,6 +66,14 @@ If any of these librarys are not yet installed:
 ```bash
 pip install understatapi pandas numpy scipy matplotlib
 ```
+## Running the whole pipeline
+running this command will run every command listed below.
+```bash
+python3 pipeline.py <year>
+```
+
+If you want to execute a specific part of the pipeline, refer to text below.
+
 
 ## Getting Started with Initial data
 Please proceed in the following order
